@@ -2,6 +2,7 @@ a
 {
     text-decoration: underline;
     color:aqua;  
+    align-self:baseline;
 }
 a:hover{
     color:rgb(255, 208, 0);
@@ -15,7 +16,7 @@ padding:100px 100px;
 }
 .BG
 {
-    background-image: url("BG Image.png");
+    background-image: url("BG\ Image.png");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -56,4 +57,7 @@ footer{
   padding: 25px;
   background-color: #0A479A;
   color: black;
+}
+.PName{
+    color: aqua;
 }
