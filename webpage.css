@@ -1,0 +1,59 @@
+a
+{
+    text-decoration: underline;
+    color:aqua;  
+}
+a:hover{
+    color:rgb(255, 208, 0);
+}
+:hover.box-part{
+    color: aliceblue;
+}
+.box
+{
+padding:100px 100px;
+}
+.BG
+{
+    background-image: url("BG\ Image.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-part
+{
+    background-color: #155962;
+    text-align: left;
+    padding: 30px 20px;
+    margin: 50px;
+    height: 75%;
+    width: 75%;
+    border-radius: 50px;
+}
+h6{
+    text-align: center;
+    color: rgb(255, 208, 0);
+    font-weight: bold;
+    font-size: larger;
+}
+h4
+{
+    font-weight: bolder;
+}
+h3
+{
+    font-weight: lighter;
+}
+img{
+    height: 2.5cm;
+    width: 2.5cm;
+    text-align: right;
+}
+footer{
+  text-align: center;
+  padding: 25px;
+  background-color: #0A479A;
+  color: black;
+}
